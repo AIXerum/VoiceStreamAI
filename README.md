@@ -16,7 +16,7 @@ VoiceStreamAI is a Python 3 -based server and JavaScript client solution that en
 ## Demo Video
 
 
-https://github.com/alesaccoia/VoiceStreamAI/assets/1385023/9b5f2602-fe0b-4c9d-af9e-4662e42e23df
+https://github.com/AIXerum/VoiceStreamAI/assets/1385023/9b5f2602-fe0b-4c9d-af9e-4662e42e23df
 
 ## Demo Client
 
@@ -208,9 +208,3 @@ Please make sure that the end variables are in place for example for the VAD aut
 ### Dependence on Audio Files
 
 Currently, VoiceStreamAI processes audio by saving chunks to files and then running these files through the models. 
-
-## Contributors
-
-- Alessandro Saccoia - [alessandro.saccoia@gmail.com](mailto:alessandro.saccoia@gmail.com)
-
-This project is open for contributions. Feel free to fork the repository and submit pull requests.
